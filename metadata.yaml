@@ -1,11 +1,16 @@
 _repo: Radio-Boys-in-the-Secret-Service-Or-Cast-Away-on-an-Iceberg_62000
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62000-h/images/cover.jpg
 creator:
   author:
     agent_name: Duffield, J. W.
     gutenberg_agent_id: '4685'
     url: http://www.gutenberg.org/2009/agents/4685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62000#Radio-Boys-in-the-Secret-Service-Or-Cast-Away-on-an-Iceberg
 gutenberg_issued: '2020-05-02'
 gutenberg_type: Text
 identifiers:
